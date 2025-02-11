@@ -1,2 +1,4 @@
 env/
 forest_reg.pkl
+*.ckpt
+datasets/inception/
